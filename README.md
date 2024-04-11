@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am working as Security Researcher
+### 🖥️I am working as Security Researcher
 
 
-## 🌐Socials:
+# 🌐Socials:
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Wolfzy) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24225786) 
