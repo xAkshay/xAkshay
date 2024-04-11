@@ -17,6 +17,9 @@
 
 
 # 💻 SkiLLz😎:
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%238A2BE2.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23E54E53.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -58,9 +61,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%238A2BE2.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23E54E53.svg?style=for-the-badge&logo=nmap&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xAkshay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
