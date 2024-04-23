@@ -79,6 +79,9 @@
 [![](https://visitcount.itsvg.in/api?id=xAkshay&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wolfzy)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wolfzy)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github.com/xAkshay/xAkshay/assets/149974605/cde0debc-8143-49f7-ae5b-833d086ed2a4" alt="bmc_qr" width="200" height="200">
+
+  
+
