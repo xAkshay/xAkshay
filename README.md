@@ -1,8 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
 ### 🖥️I am working as Security Researcher
 
 
-# 🌐Socials:
+## 🌐Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AkshayTa1ekar) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkshayTa1ekar) 
@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AkshayTa1ekar)
 
 
-# 💻 SkiLLz😎:
+## 💻 SkiLLz😎:
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%238A2BE2.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23E54E53.svg?style=for-the-badge&logo=nmap&logoColor=white)
@@ -30,7 +30,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xAkshay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xAkshay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xAkshay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
